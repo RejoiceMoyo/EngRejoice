@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EngRejoice
 - 👀 I’m interested in ... open source and collaborations 
-- 🌱 I’m currently learning ... software engineering
-- 💞️ I’m looking to collaborate on ... lots of coding projects and tasks 
+- 🌱 I’m currently learning ... the art of software engineering
+- 💞️ I’m looking to collaborate on ... lots of exciting coding projects and tasks 
 - 📫 How to reach me ... officialrejoicemoyo@outlook.com
 
 <!---
